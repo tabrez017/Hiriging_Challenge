@@ -1,0 +1,28 @@
+Enter the number of Jobs:
+
+3
+
+Enter job start time, end time, and earnings:
+
+0900
+
+1030
+
+100
+
+1000
+
+1200
+
+500
+
+1100
+
+1200
+
+300
+
+The number of tasks and earnings available for others
+Tasks:1
+
+Earnings: 100
